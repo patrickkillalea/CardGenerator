@@ -61,4 +61,5 @@ textarea {
 .main-background {
     background: url('photo-1444426724550-c7bfccd051ee.jpg') no-repeat center center fixed;
     background-size: cover;
+    min-height: 100vh;
 }
