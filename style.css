@@ -1,3 +1,9 @@
+pre {
+    background-color: rgba(0, 0, 0, 0);
+    color: white;
+    border: none;
+    font-size: 24px;
+}
 
 textarea {
     min-height: 400px;
